@@ -16,7 +16,7 @@ import org.slf4j.Logger;
 @Component
 public class WebSocketEventListener {
 
-    //Hej med dig123321312
+    //Hej med dig12332131212323
 
     private static final Logger logger = LoggerFactory.getLogger(WebSocketEventListener.class);
 
